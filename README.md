@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Ta-Webmaster/Ta-Webmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +24,9 @@ Architecte digitale WordPress éco-responsable, fondatrice de [Ta Webmaster](htt
 
 ## Ma façon de travailler
 La stratégie d'abord, la technique ensuite. Je privilégie la sobriété numérique : médias optimisés, peu de plugins, bonnes pratiques d'éco-conception.
+
+## Ce que j'ai construit
+- [**audit-flash**](https://github.com/Ta-Webmaster/audit-flash) : un outil Google Sheets (Apps Script) qui analyse un site WordPress à partir de son URL (performance, SEO, version, thème, extensions) et prépare un brouillon de mail personnalisé. Conçu avec Claude Code pour automatiser mes premiers diagnostics.
 
 ## Me contacter
 🌐 [tawebmaster.com](https://tawebmaster.com)
